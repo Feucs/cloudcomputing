@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<title>Water Drinking Record</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<style>
+
+#waterProgress {
+  width: 90%;
+  background-color: #ddd;
+  margin-left:20px;
+}
+
+#waterDrinked {
+  width: 50%;
+  height: 30px;
+  background-color: #4169E1;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+
+</style>
+
+<body>
+
+<!-- Sidebar -->
+<div class="w3-sidebar w3-bar-block" style="display:none" id="mySidebar">
+  <button onclick="w3_close()" class="w3-bar-item w3-button w3-large">Close &times;</button>
+  <a class="w3-bar-item w3-button" href="#">My Target</a>
+  <a class="w3-bar-item w3-button" href="#">My Record</a>
+</div>
+
+<!-- Page Content -->
+<div class="w3-teal">
+  <button class="w3-button w3-teal w3-xlarge" onclick="w3_open()">&#9776;</button>
+  <div class="w3-container">
+    <h1>My Target</h1>
+  </div>
+</div>
+
+
+<p style="font-size:20px;margin-left:20px;">Drink Water Target</p>
+
+<div id="waterProgress">
+  <div id="waterDrinked">50%</div>
+</div>
+
+<div class="w3-container">
+<p>How many your drink today</p>
+<img src="https://pbs.twimg.com/media/E9PPRvSVoAYlURs?format=jpg&name=medium" alt="100ml" width="80" height="110">
+<img src="https://pbs.twimg.com/media/E9PPRvRVUAUI6OI?format=png&name=900x900" alt="300ml" width="80" height="160"> 
+<img src="https://pbs.twimg.com/media/E9PPRvSUYAMsAQZ?format=jpg&name=4096x4096" alt="500ml" width="60" height="160" style="margin: 0px 0px 0px 30px;">
+<p>//Glass</p>
+</div>
+
+
+<footer class="w3-container w3-theme-l2" style="position:relative">
+  <a class="w3-btn w3-xlarge w3-circle w3-theme-action w3-right" style="position:absolute;top:20px;right:16px;background-color:#FFFF00">+</a>
+</footer>
+
+<script>
+function w3_open() {
+    document.getElementById("mySidebar").style.width = "30%";
+    document.getElementById("mySidebar").style.display = "block";
+}
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+}
+</script>
+     
+</body>
+</html> 
