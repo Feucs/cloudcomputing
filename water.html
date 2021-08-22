@@ -41,15 +41,21 @@ body {
 <body>
 
 <label style="padding-top:4%; font-size:40px;">Water Recording</label>
-<image src="giphy.gif" style="width:90px;height:90px;"></image>
+<image src="https://media2.giphy.com/media/y6yVGEQUH67oGVOTCw/giphy.gif?cid=790b761116aadcde23f7436e788d748ccdcb1dad56ed1e50&rid=giphy.gif&ct=s" style="width:90px;height:90px;"></image>
 <div class="container" style="width:60%">
     <form action="/action_page.php" class="center">
         <input style="margin-top:6%; margin-bottom: 5%;" type="text" id="target" name="target" placeholder="Daily Target ..."><br>
     
         <button style="width:80px; margin-right: 5px;" type="button" class="btn btn-info">EDIT</button>
-        <button style="width:80px" type="button" class="btn btn-success">SUBMIT</button>
+        <button id="submitButton" style="width:80px" type="button" class="btn btn-success">SUBMIT</button>
     </form>
 </div>
+
+<script type="text/javascript">
+    document.getElementById("submitButton").onclick = function () {
+        location.href = "content-water.html";
+    };
+</script>
 
 </body>
 </html>
