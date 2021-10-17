@@ -22,7 +22,7 @@
       <a href="#about-the-project">About The Project</a>
     </li> 
      <li><a href="#built-with">Built With</a></li>  
-     <li><a href="#User_Manual">User Manual</a></li>
+     <li><a href="#User Manual">User Manual</a></li>
      <li><a href="#license">License</a></li>
      <li><a href="#contact">Contact</a></li>
      <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -34,7 +34,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Health Tracking System
+<div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/project.png">
+    <img src="images/project.png" alt="Logo" width=350" height="200">
+  </a>
+ </div>
+ <br />                                                                 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -67,7 +73,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- User Manual -->
-## User_Manual
+## User Manual
 
 <p>Step 1 : aaaaaaaa</p>
  <div align="center">
