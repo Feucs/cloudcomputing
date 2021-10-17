@@ -2,10 +2,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/images/logo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="100">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">MIT App Inventor</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
