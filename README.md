@@ -83,7 +83,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p>Step 1</p>
 <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/images/1.png">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/1.png">
     <img src="images/logo.png" alt="Logo" width="200" height="100">
   </a>
  </div>
