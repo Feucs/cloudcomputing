@@ -22,7 +22,7 @@
       <a href="#about-the-project">About The Project</a>
     </li> 
      <li><a href="#built-with">Built With</a></li>  
-     <li><a href="#User Manual">User Manual</a></li>
+     <li><a href="#User_Manual">User Manual</a></li>
      <li><a href="#license">License</a></li>
      <li><a href="#contact">Contact</a></li>
      <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -73,7 +73,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- User Manual -->
-## User Manual
+## User_Manual
 
 <p>Step 1 : aaaaaaaa</p>
  <div align="center">
