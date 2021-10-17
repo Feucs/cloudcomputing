@@ -81,12 +81,86 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- User Manual -->
 ## User Manual
 
-<p>Step 1</p>
-<div align="center">
+<p>Step 1 : aaaaaaaa</p>
+ <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/1.png">
-    <img src="images/logo.png" alt="Logo" width="200" height="100">
+    <img src="images/1.png" alt="Logo" width="250" height="350">
   </a>
  </div>
+<p>Step 2 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/2.png">
+    <img src="images/2.png" alt="Logo" width="250" height="350">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/2.1.png">
+    <img src="images/2.1.png" alt="Logo" width="250" height="350">
+  </a>
+ </div>
+<p>Step 3 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/3.png">
+    <img src="images/3.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 4 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/4.png">
+    <img src="images/4.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 5 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/5.png">
+    <img src="images/5.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 6 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/6.png">
+    <img src="images/6.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 7 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/7.png">
+    <img src="images/7.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 8 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/8.png">
+    <img src="images/8.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 9 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/9.png">
+    <img src="images/9.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 10 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.png">
+    <img src="images/10.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 11 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/11.png">
+    <img src="images/11.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 12 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/12.png">
+    <img src="images/12.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <p>Step 13 : aaaaaaaa</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/13.png">
+    <img src="images/13.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
