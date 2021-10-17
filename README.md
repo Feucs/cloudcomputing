@@ -8,7 +8,7 @@
   <h3 align="center">MIT App Inventor</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome MIT App Inventor to start your projects!
     <br />
     <a href="https://github.com/Feucs/cloudcomputing/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
