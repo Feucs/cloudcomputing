@@ -10,15 +10,6 @@
   <p align="center">
     An awesome MIT App Inventor to start your projects!
     <br />
-    <a href="https://github.com/Feucs/cloudcomputing/blob/main/README.md"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Feucs/cloudcomputing/blob/main/README.md">View Demo</a>
-    ·
-    <a href="https://github.com/Feucs/cloudcomputing/blob/main/README.md">Report Bug</a>
-    ·
-    <a href="https://github.com/Feucs/cloudcomputing/blob/main/README.md">Request Feature</a>
-  </p>
 </div>
 
 
