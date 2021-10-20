@@ -205,7 +205,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/Feucs/cloudcomputing/blob/main/LICENSE">`LICENSE` </a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/Feucs/cloudcomputing/blob/main/LICENSE">`LICENSE`</a> for more information.
                                 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
