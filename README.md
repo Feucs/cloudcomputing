@@ -1,18 +1,16 @@
-<!-- PROJECT LOGO -->
-<br />
+<!-- MMU LOGO -->
 <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="200" height="100">
-  </a>
-
-  <h3 align="center">MIT App Inventor</h3>
-
-  <p align="center">
-    An awesome MIT App Inventor to start your projects!
-    <br />
+ <table>
+  <tr>
+    <th>Student ID</th>
+    <th>Student Name</th>
+  </tr>
+  <tr>
+    <td>1171</td>
+    <td>abc</td>
+   </tr>
+</table>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -34,8 +32,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Health Tracking System
-<div align="center">
+<h3>MIT App Inventor</h3>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/images/logo.png">
+    <img src="images/logo.png" alt="Logo" width="200" height="100">
+  </a>
+ </div>
+  <p>
+    An awesome MIT App Inventor to start your projects!
+  </p>
+  <br />
+
+<h3>Health Tracking System</h3>
+<div align="center">  
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/project.png">
     <img src="images/project.png" alt="Logo" width=350" height="200">
   </a>
