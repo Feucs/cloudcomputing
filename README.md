@@ -1,5 +1,10 @@
 <!-- MMU LOGO -->
 <div align="center">
+ <a href="https://github.com/Feucs/cloudcomputing/images/mmu.png">
+    <img src="images/mmu.png" alt="Logo" width="400" height="200">
+ </a>
+ <br />
+ <br />
  <table>
   <tr>
     <th>Student ID</th>
@@ -9,10 +14,15 @@
     <td>1171</td>
     <td>abc</td>
    </tr>
-</table>
+ </table>
+ <br />
+ <br />
+ <p>Prepare for: Ms. abc</p>
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
+## Table of Contents
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -38,6 +48,7 @@
     <img src="images/logo.png" alt="Logo" width="200" height="100">
   </a>
  </div>
+ <br />
   <p>
     An awesome MIT App Inventor to start your projects!
   </p>
