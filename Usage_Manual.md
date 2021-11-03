@@ -1,10 +1,13 @@
 <!-- Usage Manual -->
 ## Usage Manual
 
-<p>Step 1 : Go to <a href="http://ai2.appinventor.mit.edu">MIT</a>, and import project (.aia).</p>
+<p>Step 1 : Go to <a href="http://ai2.appinventor.mit.edu">MIT Website</a>, and import project (.aia).</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/0.1.png">
     <img src="images/0.1.png" alt="Logo" width="250" height="350">
+  </a>
+ <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/0.2.png">
+    <img src="images/0.2.png" alt="Logo" width="250" height="350">
   </a>
  </div>
  <br />
