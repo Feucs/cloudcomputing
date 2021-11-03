@@ -1,26 +1,37 @@
 <!-- Usage Manual -->
 ## Usage Manual
 
-<p>Step 1 : Go to <a href="http://ai2.appinventor.mit.edu">MIT Website</a>, and import project (.aia).</p>
+<p>Step 1 : Go to <a href="http://ai2.appinventor.mit.edu">MIT Website</a>, and click "Project"-> "Import project (.aia)".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/0.1.png">
-    <img src="images/0.1.png" alt="Logo" width="250" height="350">
+    <img src="images/0.1.png" alt="Logo" width="400" height="350">
   </a>
- <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/0.2.png">
-    <img src="images/0.2.png" alt="Logo" width="250" height="350">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/0.2.png">
+    <img src="images/0.2.png" alt="Logo" width="400" height="350">
   </a>
  </div>
  <br />
  
- <p>Step 1 : Type in the code, and makesure use legacy coonection the click the "connect with code" in your andriod phnoe's MIT App Inventor .</p>
+ <p>Step 2 : Open the project and click "Connect"-> "AI Companion".</p>
  <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/1.png">
-    <img src="images/1.png" alt="Logo" width="250" height="350">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/0.3.png">
+    <img src="images/0.3.png" alt="Logo" width="400" height="350">
+  </a>
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/0.4.png">
+    <img src="images/0.4.png" alt="Logo" width="400" height="350">
   </a>
  </div>
  <br />
  
-<p>Step 1 : Type in the code, and makesure use legacy coonection the click the "connect with code" in your andriod phnoe's MIT App Inventor .</p>
+ <p>Step 3 : Get the code.</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/0.5.png">
+    <img src="images/0.5.png" alt="Logo" width="400" height="350">
+  </a>
+ </div>
+ <br />
+ 
+<p>Step 3 : Type in the code, and makesure use legacy coonection the click the "connect with code" in your andriod phnoe's MIT App Inventor .</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/1.png">
     <img src="images/1.png" alt="Logo" width="250" height="350">
