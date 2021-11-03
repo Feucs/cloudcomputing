@@ -50,11 +50,12 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li> 
-     <li><a href="#built-with">Built With</a></li>  
-     <li><a href="#User_Manual">User Manual</a></li>
-     <li><a href="#license">License</a></li>
-     <li><a href="#contact">Contact</a></li>
-     <li><a href="#referances">Referances</a></li>
+     <li><a href="#step-for-implementing-the-app">Step for Implementing the App</a></li>  
+     <li><a href="#hardware/software-tools-we-used-to-implement-the-app">Hardware/Software Tools We Used to Implement the App</a></li>
+     <li><a href="#middlewares/APIs-that-we-used-to-interconnect-different-software-tools-in-our-app">Middlewares/APIs that We Used to Interconnect Different Software Tools in Our App</a></li>  
+     <li><a href="#techniques-that-our-team-used-to-implement-the-version-control-on-gitHub">Techniques That Our Team Used to Implement The Version Control On GitHub</a></li>
+     <li><a href="#referances">References</a></li>
+     
   </ol>
 </details>
 
@@ -90,141 +91,113 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<!-- Step Implementing -->
+## Step for Implementing the App
+<h4>Step 1 : Requirements in the project</h4>
+<br/>
+<p> Based on the guideline of the assignment, all the requirements are described. We followed all the requirements that have to be included in the application and designed our application.</p>
+<br/>
 
-## Built With
+<h4>Step 2 : Setup a private GitHub repository</h4>
+<br/>
+<p>Based on the guideline of the assignment, all of our app documentation must be uploaded to a github repository. As a result, we've formed a private github group to which all project members will be invited, allowing them to easily update their work while also allowing group members to observe it.</p>
+<br/>
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<h4>Step 3 : Task Distribution</h4>
+ <br/>
+<p>Our leaders provide responsibilities to each team member in order to establish good team interaction. The list below reveals which members are responsible for which tasks.</p>
+<br/>
+<ul>
+<li>
+Feu Che Sung
+<ul>
+	<li>Register and Login page.</li>
+	<li>Health Dashboard</li>
+	<li>Help checking other member works.</li>
+	<li>Readme.</li>
+</ul>
+</li>
+<br/>
+<li>
+Lim Hui Fang
+<ul>
+	<li>Water Volume Data sent to Google Sheets.</li>
+	<li>Add Water Volume.</li>
+<li>Readme.</li>
+</ul>
+</li>
+<br/>
+<li>
+Kiew En Tong
+<ul>
+	<li>Water Target Data sent to Google Sheets.</li>
+	<li>Set Water Target.</li>
+<li>Readme.</li>
+</ul>
+</li>
+<br/>
+<li>
+Tan Kah Feng
+<ul>
+	<li>Take BMI data from the Google Sheets.</li>
+<li>Chart display.</li>
+<li>Readme.</li>
+</ul>
+</li>
+<br/>
+<li>
+Koh Jun Hong
+<ul>
+	<li>BMI data sent to Google Sheets.</li>
+<li>Usage Manual.</li>
+<li>Readme.</li>
+</ul>
+</li>
+</ul>
+<br/>
 
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+<h4>Step 4 : Design Interface and Implementation</h4>
+<br/>
+<p>We designed the interfaces by using the languages HTML and JavaScript in other tools such as Notepad++ and Visual Studio Code. We imported the HTML file into MIT app inventor and added the blocks to complete our application to be fully functional.</p>
+<br/>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<h4>Step 5 : Update progress of the project</h4>
+<br/>
+<p>We used a social media platform such as Google Meet/Wechat as our primary communication tool, and all conversation and progress results were posted in the Wechat group or communicated to the meeting leader. All files exported from MIT App inventor, on the other hand, will be published and shared with other members for progress updates.</p>
+<br/>
 
-<!-- User Manual -->
-## User_Manual
-
-<p>Step 1 : Type in the code, and makesure use legacy coonection the click the "connect with code" in your andriod phnoe's MIT App Inventor .</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/1.png">
-    <img src="images/1.png" alt="Logo" width="250" height="350">
-  </a>
- </div>
- <br />
- 
-<p>Step 2 : For new user need to fill in the required information the click the "Register" else choose "Already created an account?".</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/2.png">
-    <img src="images/2.png" alt="Logo" width="250" height="350">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/2.1.png">
-    <img src="images/2.1.png" alt="Logo" width="250" height="350">
-  </a>
- </div>
- <br />
-  
-<p>Step 3 : For new user, you can see the "Successfully Registered" after account regitration.</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/3.png">
-    <img src="images/3.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
- <br />
- 
- <p>Step 4 : At the login page, user need to type in their "Email address" and "Password" then login.</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/4.png">
-    <img src="images/4.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
- <br />
- 
- <p>Step 5 : At the homepage, user can see the all funtion of this system.</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/5.png">
-    <img src="images/5.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
-  <br />
-  
- <p>Step 6 : First, choose the "BMI Calculate".</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/6.png">
-    <img src="images/6.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
-  <br />
-  
- <p>Step 7 : Type in your weight and height the click the "Calculate".</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/7.png">
-    <img src="images/7.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
- <br />
-  
- <p>Step 8 : User can view their history of BMI.</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/8.png">
-    <img src="images/8.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
- <br />
-  
- <p>Step 9 : Second, choose the "Set & Record Drinks".</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/9.png">
-    <img src="images/9.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
- <br />
-  
- <p>Step 10 : User can set their target then click the "SUBMIT".</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.png">
-    <img src="images/10.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
- <br />
- 
- <p>Step 11 : Third, choose the "BMI Chart"</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/11.png">
-    <img src="images/11.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
- <br />
-  
- <p>Step 12 : User can choose either "Bar" or "Pie".</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/12.png">
-    <img src="images/12.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
- <br />
-  
- <p>Step 13 : User can see the BMI record of all user in this system</p>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/13.png">
-    <img src="images/13.png" alt="Logo" width="250" height="350">
-  </a>
-  </div>
+<h4>Step 6 : Application Testing </h4>
+<br><p>After implementing our application, we tested and debug the errors to allow users to use our application more conveniently. In order to provide an effective BMI calculator and health monitor, we tried to fix and minimize the inconvenience parts to get better results.
+</p>
+<br/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License. See <a href="https://github.com/Feucs/cloudcomputing/blob/main/LICENSE">`LICENSE`</a> for more information.
+<!-- tools used to implement -->
+## Hardware/Software Tools We Used to Implement the App
+
+<p>
+ First tool that we are using is MIT App Inventor. MIT App Inventor is a web application integrated development environment that is maintained by the Massachusetts Institute of Technology. It's a simple, visual programming environment that lets anyone create fully functional applications for their smartphones and tablets. The second is Notepad++. We used it to code our HTML file for our application interface.
+</p>
+
                                 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- Middlewares/APIs that We Used to Interconnect Different Software Tools in Our App -->
+## Middlewares/APIs that We Used to Interconnect Different Software Tools in Our App 
 
+<p>
+ We need to install “MIT AI2 Companion” into our smartphone to connect the program that we did in MIT App Inventor.
+</p>
 
-<!-- CONTACT -->
-## Contact
+                                
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-Group Leader Name - Feu Che Sung - 1171203702@student.mmu.edu.my
+<!-- techniques -->
+## Techniques That Our Team Used to Implement The Version Control On GitHub
+<p>The technique that we used to implement the version control on GitHub is by naming the file name. Everytime we update the coding, we will upload the new version by naming it “Version[Num]”. For example, the first coding we uploaded is “Version1.aia”, the second file name will be “Version2.aia” and the further versions are so to be.</p>
 
-Project Link: https://github.com/Feucs/cloudcomputing
 
 <p align="right">(<a href="#top">back to top</a>)</p>
   
