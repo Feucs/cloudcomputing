@@ -31,7 +31,7 @@
  </div>
  <br />
  
-<p>Step 4 : Type in the code, and makesure use legacy coonection the click the "connect with code" in your andriod phnoe's MIT App Inventor .</p>
+<p>Step 4 : Type in the code, and makesure use legacy coonection the click the "connect with code" in your andriod phone's <a href="https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en&gl=US">MIT App Inventor</a>.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/1.png">
     <img src="images/1.png" alt="Logo" width="250" height="350">
@@ -113,7 +113,7 @@
   </div>
  <br />
  
- <p>Step 14 : Third, choose the "BMI Chart"</p>
+ <p>Step 14 : Third, choose the "BMI Chart".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/11.png">
     <img src="images/11.png" alt="Logo" width="250" height="350">
