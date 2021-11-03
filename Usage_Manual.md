@@ -1,5 +1,5 @@
 <!-- Usage Manual -->
-## User_Manual
+## Usage Manual
 
 <p>Step 1 : Type in the code, and makesure use legacy coonection the click the "connect with code" in your andriod phnoe's MIT App Inventor .</p>
  <div align="center">
