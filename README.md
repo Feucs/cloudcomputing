@@ -148,6 +148,7 @@ Tan Kah Feng
 <li>
 Koh Jun Hong
 <ul>
+	<li>BMI Calculation.</li>
 	<li>BMI data sent to Google Sheets.</li>
 <li>Usage Manual.</li>
 <li>Readme.</li>
