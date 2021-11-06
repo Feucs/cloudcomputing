@@ -79,12 +79,13 @@
  
  ## Register & Login 
  
-<p>Step 1 : For new user need to fill in the required information the click the "Register" else choose "Already created an account?".</p>
+ <p>After connect to AI Companion or installed the apk file, you should access our Health Tracking System successfully. The first screen you will see is Register & Login screen.</p>
+<p>Step 1 : For new user, you need to fill in the required information, and the click on the "Register", or else choose "Already created an account?" if you have already done for registration.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/2.png">
-    <img src="images/2.png" alt="Logo" width="250" height="350">
+    <img src="images/2.png" alt="Logo" width="230" height="350">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/2.1.png">
-    <img src="images/2.1.png" alt="Logo" width="250" height="350">
+    <img src="images/2.1.png" alt="Logo" width="230" height="350">
   </a>
  </div>
  <br />
@@ -92,25 +93,25 @@
 <p>Step 2 : For new user, you can see the "Successfully Registered" after account registration.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/3.png">
-    <img src="images/3.png" alt="Logo" width="250" height="350">
+    <img src="images/3.png" alt="Logo" width="230" height="350">
   </a>
   </div>
  <br />
  
- <p>Step 3 : At the login page, user need to type in their "Email address" and "Password" inorder to login.</p>
+ <p>Step 3 : After the registration, user need to login to their account by type in their "Email address" and "Password" in order to login.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/4.png">
-    <img src="images/4.png" alt="Logo" width="250" height="350">
+    <img src="images/4.png" alt="Logo" width="230" height="350">
   </a>
   </div>
  <br />
  
  ## Health Dashboard
  
- <p>Step 1 : At the homepage, user can see the all funtion of this system.</p>
+ <p>After success to login your account, you can see the all funtion of this system at the homepage. It have BMI Calculator, Drink Recorder, and Charts.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/5.png">
-    <img src="images/5.png" alt="Logo" width="250" height="350">
+    <img src="images/5.png" alt="Logo" width="230" height="350">
   </a>
   </div>
   <br />
@@ -120,7 +121,7 @@
  <p>Step 1 : First, choose the "BMI Calculate".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/6.png">
-    <img src="images/6.png" alt="Logo" width="250" height="350">
+    <img src="images/6.png" alt="Logo" width="230" height="350">
   </a>
   </div>
   <br />
@@ -128,49 +129,61 @@
  <p>Step 2: Keyin weight and height and click "Calculcate" button.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/7.png">
-    <img src="images/7.png" alt="Logo" width="250" height="350">
+    <img src="images/7.png" alt="Logo" width="230" height="350">
   </a>
   </div>
  <br />
   
- <p>Step 3 : User can view their history of BMI in the BMI history or after they keyin their weight and height.</p>
+ <p>Step 3 : After that, user can view their BMI status in the "Latest BMI" or they can view other history on "BMI History" if they have calculate more than once.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/8.png">
-    <img src="images/8.png" alt="Logo" width="250" height="350">
+    <img src="images/8.png" alt="Logo" width="230" height="350">
   </a>
   </div>
  <br />
  
  ## Record Water
   
- <p>Step 1 : Select "Set & Record Drinks".</p>
+ <p>Step 1 : Select "Set & Record Drinks" if user want to record their daily drinks.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/9.png">
-    <img src="images/9.png" alt="Logo" width="250" height="350">
+    <img src="images/9.png" alt="Logo" width="230" height="350">
   </a>
   </div>
  <br />
   
- <p>Step 2 : User can set their target and click "SUBMIT".</p>
+ <p>Step 2 : After that, the screen will showing empty target and empty drinks if they are new users. In order to set the target, user can click on "Set new target".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.png">
-    <img src="images/10.png" alt="Logo" width="250" height="350">
+    <img src="images/10.png" alt="Logo" width="230" height="350">
   </a>
   </div>
  <br />
  
- <p>Step 3 : User can record their daily drink consumption.</p>
+<p>Step 4 : User can key in the target they want.</p>
  <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/setTarget.png">
+    <img src="images/setTarget.png" alt="Logo" width="230" height="350">
+  </a>
+  </div>
+ <br />
+
+
+ <p>Step 5 : After submit their target, user can record their daily drink consumption after click on the  "Add Water" on first page.</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/addWater.png">
+    <img src="images/addWater.png" alt="Logo" width="150" height="350">
+  </a>
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.1.png">
-    <img src="images/10.1.png" alt="Logo" width="250" height="350">
+    <img src="images/10.1.png" alt="Logo" width="210" height="350">
   </a>
   </div>
  <br />
  
- <p>Step 4 : User can view their drink history and total drink.</p>
+ <p>Step 6 : After add the water, user can view their drink history and also the total drink.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.2.png">
-    <img src="images/10.2.png" alt="Logo" width="250" height="350">
+    <img src="images/10.2.png" alt="Logo" width="200" height="350">
   </a>
   </div>
  <br />
