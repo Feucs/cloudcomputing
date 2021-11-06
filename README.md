@@ -76,8 +76,6 @@
   </p>
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- Step Implementing -->
 ## Step for Implementing the App
@@ -160,7 +158,7 @@ Koh Jun Hong
 </p>
 <br/>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- tools used to implement -->
@@ -190,7 +188,6 @@ Koh Jun Hong
   <br />
 
                                 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Middlewares/APIs that We Used to Interconnect Different Software Tools in Our App -->
 ## Middlewares/APIs that We Used to Interconnect Different Software Tools in Our App 
@@ -200,7 +197,7 @@ Koh Jun Hong
 </p>
 
                                 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- techniques -->
 ## Techniques That Our Team Used to Implement The Version Control On GitHub
