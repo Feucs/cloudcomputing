@@ -155,7 +155,7 @@
  <p>Step 2 : After that, the screen will showing empty target and empty drinks if they are new users. In order to set the target, user can click on "Set new target".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.png">
-    <img src="images/10.png" alt="Logo" width="230" height="350">
+    <img src="images/10.png" alt="Logo" width="310" height="230">
   </a>
   </div>
  <br />
