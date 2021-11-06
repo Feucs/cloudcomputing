@@ -89,7 +89,7 @@
  </div>
  <br />
   
-<p>Step 2 : For new user, you can see the "Successfully Registered" after account regitration.</p>
+<p>Step 2 : For new user, you can see the "Successfully Registered" after account registration.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/3.png">
     <img src="images/3.png" alt="Logo" width="250" height="350">
@@ -97,7 +97,7 @@
   </div>
  <br />
  
- <p>Step 3 : At the login page, user need to type in their "Email address" and "Password" then login.</p>
+ <p>Step 3 : At the login page, user need to type in their "Email address" and "Password" inorder to login.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/4.png">
     <img src="images/4.png" alt="Logo" width="250" height="350">
@@ -125,7 +125,7 @@
   </div>
   <br />
   
- <p>Step 2: Type in your weight and height the click the "Calculate".</p>
+ <p>Step 2: Keyin weight and height and click "Calculcate" button.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/7.png">
     <img src="images/7.png" alt="Logo" width="250" height="350">
@@ -133,7 +133,7 @@
   </div>
  <br />
   
- <p>Step 3 : User can view their history of BMI.</p>
+ <p>Step 3 : User can view their history of BMI in the BMI history or after they keyin their weight and height.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/8.png">
     <img src="images/8.png" alt="Logo" width="250" height="350">
@@ -143,7 +143,7 @@
  
  ## Record Water
   
- <p>Step 1 : Second, choose the "Set & Record Drinks".</p>
+ <p>Step 1 : Select "Set & Record Drinks".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/9.png">
     <img src="images/9.png" alt="Logo" width="250" height="350">
@@ -151,7 +151,7 @@
   </div>
  <br />
   
- <p>Step 2 : User can set their target then click the "SUBMIT".</p>
+ <p>Step 2 : User can set their target and click "SUBMIT".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.png">
     <img src="images/10.png" alt="Logo" width="250" height="350">
@@ -159,7 +159,7 @@
   </div>
  <br />
  
- <p>Step 3 : User can set the water have been drink.</p>
+ <p>Step 3 : User can record their daily drink consumption.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.1.png">
     <img src="images/10.1.png" alt="Logo" width="250" height="350">
@@ -177,7 +177,7 @@
  
  ## Charts
  
- <p>Step 1 : Third, choose the "BMI Chart".</p>
+ <p>Step 1 : Click "BMI Chart".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/11.png">
     <img src="images/11.png" alt="Logo" width="250" height="350">
