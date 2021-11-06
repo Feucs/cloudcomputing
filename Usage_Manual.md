@@ -61,7 +61,7 @@
  
  ## Export to apk file
  
- <p>Step 1 : In order to export apk file, click "Build" -> "Android App (.apk)".</p>
+ <p>Step 1 : If you want to export to apk file, click "Build" -> "Android App (.apk)".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/apk1.png">
     <img src="images/apk1.png" alt="Logo" width="400" height="350">
