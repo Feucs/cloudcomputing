@@ -98,6 +98,7 @@
 Feu Che Sung
 <ul>
 	<li>Register and Login page.</li>
+	<li>Design interface for HTML</li>
 	<li>Health Dashboard</li>
 	<li>Help checking other member works and fix the application.</li>
 	<li>Readme.</li>
@@ -193,7 +194,7 @@ Koh Jun Hong
 ## Middlewares/APIs that We Used to Interconnect Different Software Tools in Our App 
 
 <p>
- We need to install “MIT AI2 Companion” into our smartphone to connect the program that we did in MIT App Inventor.
+ We install “MIT AI2 Companion” into our smartphone to develop and test the application.Besides,we use spreadsheet to act as a database storage for the system.
 </p>
 
                                 
