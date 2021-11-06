@@ -1,9 +1,27 @@
 <!-- Usage Manual -->
 ## Usage Manual
 
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#connect-to-ai-companion">Connect to AI Companion</a>
+    </li> 
+     <li><a href="#export-to-apk-file">Export to apk file</a></li>  
+     <li><a href="#register-&-login">Register & Login</a></li>  
+     <li><a href="#health-dashboard">Health Dashboard</a></li>
+     <li><a href="#bmi">BMI</a></li>  
+     <li><a href="#record water">Record Water</a></li>
+     <li><a href="#charts">Charts</a></li>
+     
+  </ol>
+</details>
+
 ## Connect to AI Companion
 
-<p>Step 1 : Go to <a href="http://ai2.appinventor.mit.edu">MIT Website</a>, and click "Project"-> "Import project (.aia) from my computer", please download <a href="https://github.com/Feucs/cloudcomputing/blob/main/Version13(Latest%20Version).aia">Health Monitoring System</a>.aia file before that.</p>
+<p>Step 1 : Go to <a href="http://ai2.appinventor.mit.edu">MIT Website</a>, and click "Project"-> "Import project (.aia) from my computer", please download <a href="https://github.com/Feucs/cloudcomputing/blob/main/Version14(Latest).aia">Health Monitoring System</a>.aia file before that.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/0.1.png">
     <img src="images/0.1.png" alt="Logo" width="400" height="350">
@@ -37,6 +55,24 @@
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/1.png">
     <img src="images/1.png" alt="Logo" width="250" height="350">
+  </a>
+ </div>
+ <br />
+ 
+ ## Export to apk file
+ 
+ <p>Step 1 : In order to export apk file, click "Build" -> "Android App (.apk)".</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/apk1.png">
+    <img src="images/apk1.png" alt="Logo" width="400" height="350">
+  </a>
+ </div>
+ <br />
+ 
+  <p>Step 2 : After compiling to apk file, both choices are shown as below. The first choice is click the button to download the app, right-click on it to copy a download link. The second choice is scan the code with a barcode scanner to install.</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/apk2.png">
+    <img src="images/apk2.png" alt="Logo" width="400" height="350">
   </a>
  </div>
  <br />
