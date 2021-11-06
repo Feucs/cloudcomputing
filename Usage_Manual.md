@@ -113,7 +113,23 @@
   </div>
  <br />
  
- <p>Step 14 : Third, choose the "BMI Chart".</p>
+ <p>Step 14 : User can set their target then click the "SUBMIT".</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.1.png">
+    <img src="images/10.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <br />
+ 
+ <p>Step 15 : User can set their target then click the "SUBMIT".</p>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.2.png">
+    <img src="images/10.png" alt="Logo" width="250" height="350">
+  </a>
+  </div>
+ <br />
+ 
+ <p>Step 16 : Third, choose the "BMI Chart".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/11.png">
     <img src="images/11.png" alt="Logo" width="250" height="350">
@@ -121,7 +137,7 @@
   </div>
  <br />
   
- <p>Step 15 : User can choose either "Bar" or "Pie".</p>
+ <p>Step 17 : User can choose either "Bar" or "Pie".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/12.png">
     <img src="images/12.png" alt="Logo" width="250" height="350">
@@ -129,7 +145,7 @@
   </div>
  <br />
   
- <p>Step 16 : User can see the BMI record of all user in this system</p>
+ <p>Step 18 : User can see the BMI record of all user in this system</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/13.png">
     <img src="images/13.png" alt="Logo" width="250" height="350">
