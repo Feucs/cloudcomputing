@@ -126,7 +126,7 @@
   </div>
   <br />
   
- <p>Step 2: Keyin weight and height and click "Calculcate" button.</p>
+ <p>Step 2: Key in weight and height and click "Calculcate" button.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/7.png">
     <img src="images/7.png" alt="Logo" width="230" height="350">
@@ -172,10 +172,10 @@
  <p>Step 5 : After submit their target, user can record their daily drink consumption after click on the  "Add Water" on first page.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/addWater.png">
-    <img src="images/addWater.png" alt="Logo" width="150" height="350">
+    <img src="images/addWater.png" alt="Logo" width="300" height="230">
   </a>
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.1.png">
-    <img src="images/10.1.png" alt="Logo" width="210" height="350">
+    <img src="images/10.1.png" alt="Logo" width="210" height="320">
   </a>
   </div>
  <br />
