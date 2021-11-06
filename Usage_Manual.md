@@ -116,7 +116,7 @@
  <p>Step 14 : User can set their target then click the "SUBMIT".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.1.png">
-    <img src="images/10.png" alt="Logo" width="250" height="350">
+    <img src="images/10.1.png" alt="Logo" width="250" height="350">
   </a>
   </div>
  <br />
@@ -124,7 +124,7 @@
  <p>Step 15 : User can set their target then click the "SUBMIT".</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.2.png">
-    <img src="images/10.png" alt="Logo" width="250" height="350">
+    <img src="images/10.2.png" alt="Logo" width="250" height="350">
   </a>
   </div>
  <br />
