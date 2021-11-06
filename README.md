@@ -79,7 +79,7 @@
 <h3>2. Health Tracking System</h3>
 <div align="center">  
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/project.png">
-    <img src="images/project.png" alt="Logo" width=300" height="150">
+    <img src="images/project.png" alt="Logo" width=300" height="100">
   </a>
  </div>
  <br />                                                                 
