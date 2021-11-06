@@ -64,19 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<h3>1. MIT App Inventor</h3>
- <div align="center">
-  <a href="https://github.com/Feucs/cloudcomputing/images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="200" height="100">
-  </a>
- </div>
- <br />
-  <p>
-    MIT App Inventor is a cloud-based tool, which means you can build apps for Android or iOS devices right in your web browser.This project used MIT App Inventor to develop a system which is "Health Tracking System".
-  </p>
-  <br />
-
-<h3>2. Health Tracking System</h3>
+<h3>Health Tracking System</h3>
 <div align="center">  
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/project.png">
     <img src="images/project.png" alt="Logo" width=300" height="80">
@@ -84,7 +72,7 @@
  </div>
  <br />                                                                 
   <p>
-       Health Tracking System is a system that get the data information from user then used the data information to track the users' health. Such as, BMI. It also let the user to be self discipline by the fucntion of "Set & Record Drinks" which is let the user targets the drinks in a period time him/her self. In the system, we have the funtion to let the user view their history of BMI and view the chart that record all the user who used this system. 
+       Health Tracking System is a system that used to monitor an individual health condition.It enable users to calculate and record their BMI based on their weight and height that keyin into the system.Besides,the additional features of the system, "Set & Record Drinks" which enable users to set a targets for their daily water consumption.The users can record their drinks everytime in the system and it will display and calculate whether the user have achieve their target or not.Moreover,our system provide a history log for the user so that they can track their previous records.In addition,a BMI chart is generated based on the BMI status of all user to let the users know the percentage of its category falls among all users.
   </p>
 
 
@@ -95,12 +83,12 @@
 ## Step for Implementing the App
 <h4>Step 1 : Requirements in the project</h4>
 <br/>
-<p> Based on the guideline of the assignment, all the requirements are described. We followed all the requirements that have to be included in the application and designed our application.</p>
+<p>We followed all the requirements that have to be included in the application and designed our application based on the guideline provided by the instructor.</p>
 <br/>
 
 <h4>Step 2 : Setup a private GitHub repository</h4>
 <br/>
-<p>Based on the guideline of the assignment, all of our app documentation must be uploaded to a github repository. As a result, we've formed a private github group to which all project members will be invited, allowing them to easily update their work while also allowing group members to observe it.</p>
+<p>Based on the guideline of the assignment, all of our app documentation will be uploaded to a github repository. We've formed a private github group and invite all the team member, allowing them to easily update and collaborate the work.</p>
 <br/>
 
 <h4>Step 3 : Task Distribution</h4>
@@ -113,7 +101,7 @@ Feu Che Sung
 <ul>
 	<li>Register and Login page.</li>
 	<li>Health Dashboard</li>
-	<li>Help checking other member works.</li>
+	<li>Help checking other member works and fix the application.</li>
 	<li>Readme.</li>
 </ul>
 </li>
@@ -159,12 +147,12 @@ Koh Jun Hong
 
 <h4>Step 4 : Design Interface and Implementation</h4>
 <br/>
-<p>We designed the interfaces by using the languages HTML and JavaScript in other tools such as Notepad++ and Visual Studio Code. We imported the HTML file into MIT app inventor and added the blocks to complete our application to be fully functional.</p>
+<p>We designed the interfaces by using some programming language such as HTML and JavaScript in a text editor,Notepad++ and Visual Studio Code. Moreover,we use MIT app inventor as backend to process the data.We imported the HTML file into MIT app inventor and added the blocks to process and store the data so that our application are able to function to provide the user a better experience.</p>
 <br/>
 
 <h4>Step 5 : Update progress of the project</h4>
 <br/>
-<p>We used a social media platform such as Google Meet/Wechat as our primary communication tool, and all conversation and progress results were posted in the Wechat group or communicated to the meeting leader. All files exported from MIT App inventor, on the other hand, will be published and shared with other members for progress updates.</p>
+<p>We used social media platform like Google Meet/Wechat as our communication tool, all conversation and progress results were posted in the Wechat group.Besides, we also did several meeting to discuss the work to solve the problem faced by other team members. The updated version of the aia files will be export from mit app inventor and uploaded to GitHub repository to shared with other members for progress updates.</p>
 <br/>
 
 <h4>Step 6 : Application Testing </h4>
@@ -177,10 +165,29 @@ Koh Jun Hong
 
 <!-- tools used to implement -->
 ## Hardware/Software Tools We Used to Implement the App
+<h3>1. MIT App Inventor</h3>
+ <div align="center">
+  <a href="https://github.com/Feucs/cloudcomputing/images/logo.png">
+    <img src="images/logo.png" alt="Logo" width="200" height="100">
+  </a>
+ </div>
+ <br />
+  <p>
+    First tool that we are using is MIT App Inventor. MIT App Inventor is a web application integrated development environment that is maintained by the Massachusetts Institute of Technology. It's a simple, visual programming environment that lets anyone create fully functional applications for their smartphones and tablets. The second is Notepad++. We used it to code our HTML file for our application interface.
+  </p>
+  <br />
 
-<p>
- First tool that we are using is MIT App Inventor. MIT App Inventor is a web application integrated development environment that is maintained by the Massachusetts Institute of Technology. It's a simple, visual programming environment that lets anyone create fully functional applications for their smartphones and tablets. The second is Notepad++. We used it to code our HTML file for our application interface.
-</p>
+<h3>2. Text Editor</h3>
+  <p>
+   The second is Notepad++,Sublime Text and Visual Studio Code. We used it to code our HTML file for our application interface.
+  </p>
+  <br />
+								  
+<h3>3. Google Sheet</h3>
+  <p>
+   The third tools is google sheet which act as a database for our system.We use to upload the data and information of the user to Google Sheet and retrieve it to display it into the system.
+  </p>
+  <br />
 
                                 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -203,7 +210,7 @@ Koh Jun Hong
 <p align="right">(<a href="#top">back to top</a>)</p>
   
  <!-- REFERANCES -->
-## Referances
+## References
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
