@@ -113,7 +113,7 @@
   </div>
  <br />
  
- <p>Step 14 : User can set their target then click the "SUBMIT".</p>
+ <p>Step 14 : User can set the drink.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.1.png">
     <img src="images/10.1.png" alt="Logo" width="250" height="350">
@@ -121,7 +121,7 @@
   </div>
  <br />
  
- <p>Step 15 : User can set their target then click the "SUBMIT".</p>
+ <p>Step 15 : User can view their drink history.</p>
  <div align="center">
   <a href="https://github.com/Feucs/cloudcomputing/blob/main/images/10.2.png">
     <img src="images/10.2.png" alt="Logo" width="250" height="350">
