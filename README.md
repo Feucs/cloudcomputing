@@ -77,23 +77,20 @@
   <p>
        Health Tracking System is a system that used to monitor an individual health condition.It enable users to calculate and record their BMI based on their weight and height that keyin into the system.Besides,the additional features of the system, "Set & Record Drinks" which enable users to set a targets for their daily water consumption.The users can record their drinks everytime in the system and it will display and calculate whether the user have achieve their target or not.Moreover,our system provide a history log for the user so that they can track their previous records.In addition,a BMI chart is generated based on the BMI status of all user to let the users know the percentage of its category falls among all users.
   </p>
-
-
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br/>
 
 <!-- Step Implementing -->
 ## Step for Implementing the App
 <h4>Step 1 : Requirements in the project</h4>
-<br/>
 <p>We followed all the requirements that have to be included in the application and designed our application based on the guideline provided by the instructor.</p>
 <br/>
 
 <h4>Step 2 : Setup a private GitHub repository</h4>
-<br/>
 <p>Based on the guideline of the assignment, all of our app documentation will be uploaded to a github repository. We've formed a private github group and invite all the team member, allowing them to easily update and collaborate the work.</p>
 <br/>
 
 <h4>Step 3 : Task Distribution</h4>
- <br/>
 <p>Our leaders provide responsibilities to each team member in order to establish good team interaction. The list below reveals which members are responsible for which tasks.</p>
 <br/>
 <ul>
@@ -145,21 +142,21 @@ Koh Jun Hong
 </ul>
 </li>
 </ul>
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 <h4>Step 4 : Design Interface and Implementation</h4>
-<br/>
 <p>We designed the interfaces by using some programming language such as HTML and JavaScript in a text editor,Notepad++ and Visual Studio Code. Moreover,we use MIT app inventor as backend to process the data.We imported the HTML file into MIT app inventor and added the blocks to process and store the data so that our application are able to function to provide the user a better experience.</p>
 <br/>
 
 <h4>Step 5 : Update progress of the project</h4>
-<br/>
 <p>We used social media platform like Google Meet/Wechat as our communication tool, all conversation and progress results were posted in the Wechat group.Besides, we also did several meeting to discuss the work to solve the problem faced by other team members. The updated version of the aia files will be export from mit app inventor and uploaded to GitHub repository to shared with other members for progress updates.</p>
 <br/>
 
 <h4>Step 6 : Application Testing </h4>
-<br><p>After implementing our application, we tested and debug the errors to allow users to use our application more conveniently. In order to provide an effective BMI calculator and health monitor, we tried to fix and minimize the inconvenience parts to get better results.
+<p>After implementing our application, we tested and debug the errors to allow users to use our application more conveniently. In order to provide an effective BMI calculator and health monitor, we tried to fix and minimize the inconvenience parts to get better results.
 </p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 <br/>
 
 
@@ -187,8 +184,9 @@ Koh Jun Hong
 								  
 <h3>3. Google Sheet</h3>
   <p>
-   The third tools is google sheet which act as a database for our system.We use to upload the data and information of the user to Google Sheet and retrieve it to display it into the system.
+   The third tools is google sheet which act as a database for our system. We upload the data and information of the user to Google Sheet and retrieve it to display it into the system.
   </p>
+	<p align="right">(<a href="#top">back to top</a>)</p>
   <br />
 
                                 
@@ -197,9 +195,10 @@ Koh Jun Hong
 ## Middlewares/APIs that We Used to Interconnect Different Software Tools in Our App 
 
 <p>
- We install “MIT AI2 Companion” into our smartphone to develop and test the application.Besides,we use spreadsheet to act as a database storage for the system.
+ We install “MIT AI2 Companion” into our smartphone to develop and test the application. Besides, we use spreadsheet to act as a database storage for the system.
 </p>
-
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br />
                                 
 
 
@@ -220,6 +219,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+* [Display Charts by Using Chartmaker](https://github.com/MillsCS215AppInventorProj/chartmaker)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
   
